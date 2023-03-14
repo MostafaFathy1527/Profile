@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="fans">Fans</string>
+    <string name="_20m">20M</string>
+    <string name="disc">مصطفي من مصر و بحب بابا و ماما البطاطس المحمره</string>
+    <string name="mostafa">mostafa</string>
+    <string name="todo">TODO</string>
+    <string name="mostafa_fathy">Mostafa Fathy</string>
+    <string name="email_address">Email Address:</string>
+    <string name="mostafafathy1503_gmail_com">MostafaFathy1503@gmail.com</string>
+    <string name="department">Department:</string>
+    <string name="sim">SIM</string>
+    <string name="cgpa">CGPA:</string>
+    <string name="_3_01">3.01</string>
+    <string name="phone">Phone:</string>
+    <string name="_01017230938">01017230938</string>
+    <string name="birth_date">Birth date:</string>
+    <string name="_27_7_2002">27/7/2002</string>
+    <string name="supmit">SUPMIT</string>
+    <string name="edit">EDIT</string>
+</resources>
